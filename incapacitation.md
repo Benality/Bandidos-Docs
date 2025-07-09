@@ -29,13 +29,14 @@ Death and injury are natural outcomes in a world as dangerous as BandidosRP. How
 ### 🩻 Forced Injury / Mutilation RP
 
 - Any injury that would result in **permanent physical consequences** (e.g. eye gouging, limb removal) **requires OOC consent** from the player.
-- Use `/OOCL` or a direct message to gain consent and discuss limits **before starting**.
+- Use a "pigeon" or create a ticket to get consent OOC with the player. Staff is happy to be involved if needed.
 - If consent is not given, the roleplay must stop or pivot in another direction.
+- Do not continue to shoot the limbs (including head) of a downed player to mutilate their bodies.
 
 ### ✅ Staff Tracking
 
 - If your character dies (perma) or suffers a serious event like an execution or coma, notify staff via the **Discord Support Bot** so we can maintain accurate story records.
-- This is especially important for **Sisika** or **medical roles**, where tracking outcomes helps maintain continuity.
+- This is especially important for **Prison** or **medical roles**, where tracking outcomes helps maintain continuity.
 
 ---
 
