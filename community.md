@@ -1,4 +1,4 @@
-## 🗣️ Community Expectations
+## Community Expectations
 
 **BandidosRP** is a mature, English-speaking roleplay community. To support a professional and immersive experience, all members are expected to meet the following expectations both in and out of character:
 
