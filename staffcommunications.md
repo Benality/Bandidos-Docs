@@ -2,9 +2,9 @@
 
 ### 🎟️ Contacting Staff
 
-- All official staff communication takes place through the **BandidosRP Discord Support Bot** or ticket system.
+- All official staff communication takes place through the **BandidosRP Discord Support Bot**.
 - For general issues or questions, open a support ticket.
-- For reports, use the [Player Report Form](#) or designated channels in Discord.
+- Player reports are to be sent to the same Discord bot. Please do not submit player reports in any public channel.
 
 ### 🧾 Confidentiality & Respect
 
