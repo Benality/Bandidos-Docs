@@ -1,4 +1,4 @@
-# Community Conduct, Rules, and Enforcement - BandidosRP
+# Basic Terms of Service
 
 **BandidosRP** is a collaborative storytelling server built around immersive roleplay and mutual respect. While rules provide structure, **all rules, policies, and enforcement procedures may be modified at the discretion of staff** through established internal procedures. Staff will always prioritize **intent and spirit over strict interpretation**. Actions taken to deliberately undermine rules—even if technically within the letter—may result in disciplinary action.
 
