@@ -4,7 +4,7 @@
 
 * All official staff communication takes place through the **BandidosRP Discord Support Bot**.
 * For general issues or questions, open a support ticket.
-* Player reports are to be sent to the same Discord bot. Please do not submit player reports in any public channels.
+* Player reports are to be sent to the same Discord bot. Please do not submit player reports in any public channel.
 
 ## 🧾 Confidentiality & Respect
 
