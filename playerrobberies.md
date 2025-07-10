@@ -1,79 +1,102 @@
 ## Player Robbery Rules
 
-Robberies in BandidosRP must serve a **narrative purpose**, not just greed or power. Whether you're holding someone up on a dirt trail or shaking down a rival gang member, the goal is immersive, character-driven conflict—not wiping inventories.
+Robberies in BandidosRP are meant to create tension, drama, and long-term stories — **not loot grabs**. Every robbery should make sense for your character, fit the scene, and respect the server's story-first values.
 
 ---
 
 ### 🔫 You Can Rob, But You Cannot Kill
 
-- Robberies should not end in murder **unless the situation escalates naturally** (e.g. the victim fights back or attempts to flee).
-- Killing someone purely to **complete a robbery** is not permitted.
-- Robbery is about **dominance, fear, or need**—not deletion.
+- Robbery should **not end in murder** unless the victim escalates (e.g., runs, fights back, or poses an immediate threat).
+- Killing someone purely to ensure a clean robbery is **not allowed**.
+- Let your robbery scene be **memorable, not terminal**.
 
 ---
 
 ### 🧍 Transient Player Protection
 
-- **Transient players** (non-allowlisted, open beta participants) **may not**:
-  - Be robbed
-  - Initiate a robbery
-
-> They may still be included in robbery scenes as **hostages or bystanders**, but cannot be the target or aggressor.
-
-This protects new or casual players from high-stakes loss before they’ve fully joined the world.
+- **Transient (non-allowlisted) players**:
+  - ❌ Cannot rob others
+  - ❌ Cannot be robbed
+  - ✅ Can be hostages or bystanders in robbery scenes
 
 ---
 
 ### 🔫 Weapon Theft Rules
 
-You may only steal a weapon that:
+You may only steal a weapon if:
 
-- Is **currently visible** on the player, **or**
-- Was **recently used** in the current scene or active conflict
+- It is **visibly equipped**, or
+- It was **used recently** in the current or connected scene
 
-> You **may not** steal a weapon just because you know OOC they have one, or saw them use it yesterday.
+> You **cannot** steal a weapon just because you know the player has one or saw it OOC days ago.
 
-#### ⚠️ Robbery Limit (Per Player)
+#### ⚠️ One Weapon Per Player
 
-- Only **one weapon may be taken per victim**, regardless of how many robbers are present.
-- That means: one gun per person, **not per robber**.
-
-> If a larger story arc justifies taking more (e.g. disarming an enemy leader), there must be **clear, justified RP** and staff may review the scene if needed.
+- Each **victim** can only lose **one weapon**, regardless of how many robbers are present.
+- Coordinate with your group — do not “multi-strip” a victim.
 
 ---
 
-### 💰 Money & Items
+### 🐎 Horse, Wagon, or Person — Pick One
 
-- You may take **all of their on-person cash** if it fits the tone and your character’s motivation.
-- **Do not rob for money alone.** Make sure it ties into desperation, revenge, intimidation, or ideology.
-- Do not steal rare or scripted items unless the RP supports it and you’ve reasonably discovered it.
+When robbing a player, your group may:
 
----
+- **Search their person**
+- **Search their horse**
+- **Search their wagon**
 
-### 🚫 No Pocket Wiping
+But:  
+You may **only steal from one of those**.  
+If you take from their person, you cannot also loot their horse or wagon.
 
-You may **not**:
+#### Example:
 
-- Take all of someone’s items blindly
-- Go through every slot of their inventory
-- Steal herbs, bait, tools, and personal effects without reason
+> Two travelers — one on horseback, one driving a wagon — are stopped by six outlaws.  
+> Each traveler may be robbed, but only once.  
+> The group may search both the horse and wagon, but may only **take from one source per player**.
 
-> Only take what **makes sense for your character** and what they’re trying to accomplish in the moment.
-
----
-
-### 🧠 Use Robbery to Tell a Story
-
-- Leave your victim with **something**—a warning, a scar, a threat to tell the tale.
-- Robbery is most powerful when it leaves someone changed, not just looted.
-- Robbing the same person repeatedly without escalation or story will be treated as griefing.
+> ✅ This rule applies **per victim**, not per robber.
 
 ---
 
-### 🤝 Before You Rob, Ask Yourself:
+### 💰 Money, Items, and Intent
 
-- “Is this personal, desperate, or part of a larger conflict?”
-- “Will this robbery create a story—or just a mess?”
-- “Would my character actually take this item?”
+- You may take **on-person cash** if it fits the scene.
+- **Do not wipe inventories**. Take only what your character would reasonably want.
+- **Stealing is not the goal. Story is.**
 
-If not, don’t do it. We rob for meaning, not for loot.
+Ask yourself:
+
+- “Is this building tension?”
+- “Will this create lasting consequences?”
+- “Does this serve my character’s arc?”
+
+---
+
+### 🏦 Forceful Bank Access
+
+- Forcing someone to go into a bank and **withdraw all their money** is **not allowed**.
+- However, in specific story-driven cases (e.g., **ransom**, **debt collection**, or **revenge**) you **may** ask someone to access their funds — but this must be:
+  - Reasonable
+  - Immersive
+  - Not abusive or repetitive
+
+> Staff will monitor this closely. If it becomes exploitative, the rule may be adjusted.
+
+---
+
+### 🧰 Breaking into Stashes
+
+- You **may break into a stash** if the owner is **online**.
+- There is a **cooldown** to prevent repeated break-ins.
+- **Searching for stashes randomly to hit them without RP is fail RP.**
+  - You must have **IC knowledge**, motivation, or reason to break into a stash.
+  - Using stash raids to create story conflict is allowed — spammy or grindy behavior is not.
+
+---
+
+### 🔁 Final Rule of Thumb
+
+**Each victim = one robbery.**  
+**Each robbery = one source.**  
+If your robbery leaves no story behind, then it shouldn’t have happened in the first place.
