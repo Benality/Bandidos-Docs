@@ -15,6 +15,7 @@
 - [Group Size Limits](groupsizes.md)
 - [Conflict Initiation & Shootout Policy](shootout.md)
 - [Criminal Activity Rules](criminalactivity.md)
+- [Player Robberies](playerrobberies.md)
 - [Medical Consequences & Injury RP](medical.md) _(filename suggestion)_
 - [Court Trials & Legal RP](court.md) _(filename suggestion)_
 - [Serial Killers, Villainy & Special Characters](specialcharacters.md)
