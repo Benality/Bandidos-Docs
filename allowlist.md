@@ -18,6 +18,8 @@ While in this status, the following restrictions apply:
 - ❌ **Cannot rob other players**
 - ❌ **Cannot be robbed** by other players
 - ❌ **Cannot use the bank system**
+- ❌ Cannot exceed $200 in pocket
+- ❌ Cannot use the money stack item
 - ✅ **Can participate in robbery scenes** as hostages or bystanders (but not initiators)
 - ✅ **Can use the Job Board**
 - ✅ **Can buy a motel room**
