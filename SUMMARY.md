@@ -22,5 +22,6 @@
 - [Serial Killers, Villainy & Special Characters](specialcharacters.md)
 - [Story Pacing & Conflict Cooldowns](cooldowns.md)
 - [Housing & Property Ownership](homeownership.md)
+- [Operating a Business](businessownership.md)
 - [Timeline](timeline.md)
 - [Bans & Disciplinary Process](bans.md)
