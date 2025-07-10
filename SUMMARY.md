@@ -2,6 +2,7 @@
 
 - [Community Expectations](community.md)
 - [Basic Terms of Service](README.md)
+- [Allowlist](allowlist.md)
 - [Character Policy](character.md)
 - [Staff Communication & Expected Conduct](staffcommunications.md)
 - [Staff Discretion & Rule Enforcement](staffdiscretion.md)
