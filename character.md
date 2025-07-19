@@ -1,47 +1,76 @@
-## Character Policy
+## 👤 Character Policy
 
-BandidosRP is a story-driven server built on meaningful, grounded character creation. All characters should feel authentic to the world of 1880s Horizen and contribute to immersive storytelling.
+BandidosRP is a story-driven server built on meaningful, grounded character creation. All characters should feel authentic to the world of **1880s Horizen** and contribute to immersive, long-term storytelling.
+
+---
 
 ### 🔞 Character Age Requirement
 
 - All characters must be **18 years of age or older**, both physically and mentally.
-- Characters under 18 (even implied or in backstory) may not be played or referenced as part of active roleplay.
-- No pregnancy roleplay is allowed. Characters may become pregnant in backstory, but must be **off-screen** and cannot be actively roleplayed.
-
-### 🧬 Unique & Original Characters
-
-- Characters must be **original creations**. You may draw inspiration from history or fiction, but avoid direct copies of real or fictional figures.
-- **No celebrity names, RDR2 characters, or famous outlaws** (e.g., Billy the Kid, John Marston) may be used or referenced as your character.
-- Gangs and businesses must also follow this rule: original names and themes only.
-
-### 🤝 Shared Backstories
-
-- You may create family ties or shared histories with **other players’ characters**, but only with their **clear and prior OOC consent**.
-- These ties should support your own character’s story, not exist solely to **continue conflict** from previous characters or servers.
-- Related characters should have **independent motivations** and not simply be used to "carry on" someone else's legacy.
-
-### 🧠 Memory & Continuity
-
-- Characters from **other servers** can be loosely recreated, but their memories **must be wiped** of prior names, places, events, or feuds.
-- Vague references like “another state” are acceptable, but you should never roleplay knowledge from a previous server.
-- This is a **fresh world** — Horizen has no direct ties to Red Dead lore, and the East is undiscovered.
-
-### 🕰️ Character Aging
-
-- Characters should age **slowly and believably**, in line with server time.
-- If you bench a character for 6+ months in real life, you may age them slightly to maintain realism.
-- Avoid unrealistic time jumps (e.g., “my child is now 18”) unless approved by staff.
-
-### 🚫 Forbidden Character Themes
-
-The following character types or storylines are not permitted:
-
-- Children, teens, or characters with overly childlike behavior
-- Directly linking domestic abuse backstories or threats against children
-- Characters with active pregnancy
-- Extreme supernatural abilities
-- Recreated characters that continue past feuds from other communities
+- Characters under 18 — even implied in backstory — **may not** be played or referenced in active roleplay.
+- **Pregnancy roleplay is not allowed.** Pregnancy may exist in backstory only, but not be actively roleplayed on-screen.
 
 ---
 
-Characters are the foundation of BandidosRP. Be creative, be thoughtful, and build someone who could thrive (or fail) in a harsh and untamed world.
+### 🧬 Unique & Original Characters
+
+- Characters must be **original creations**.
+- You may draw inspiration from history or fiction, but **do not copy** real people or fictional characters.
+- **No celebrity names, Red Dead Redemption characters, or famous outlaws** (e.g., Billy the Kid, John Marston).
+- This also applies to **gangs and businesses** — names and themes must be original.
+
+---
+
+### 🤝 Shared Backstories
+
+- You may create family ties or backstory connections **only with prior OOC consent** from the other player(s).
+- Shared backstories should enhance your character's story — not exist solely to **revive old conflicts** from other servers.
+- Each character should be **narratively independent**, with their own motivations and goals.
+
+---
+
+### 🧠 Memory & Continuity
+
+- Characters from other servers may be **loosely reimagined**, but their **memories must be wiped**.
+  - No references to old names, places, events, or feuds.
+  - General terms like “another state” are fine — but keep it vague and disconnected.
+- Horizen is a **fresh world**, unrelated to Red Dead lore. The East is unexplored, and the past is unwritten.
+
+---
+
+### 🕰️ Character Aging
+
+- Characters should age **slowly and realistically**, in line with server time.
+- If you retire a character for 6+ months IRL, you may age them slightly upon return.
+- Unrealistic time jumps (e.g., “my child is now an adult overnight”) are not allowed unless approved by staff.
+
+---
+
+### 🧑‍🤝‍🧑 Alternate Characters (Alts)
+
+- **Each alt character must be entirely unique** — with different identities, motivations, and social circles.
+- **Sharing resources between your characters is not allowed.**
+  - This includes money, items, property, horses, stashes, and weapons.
+  - **This is considered powergaming.**
+
+> If you believe there's an **exceptional RP reason** to share resources between alts (e.g. inherited property, family-run shop), you must get **staff approval** in advance.
+
+⚠️ Things get complicated fast with **large groups, families, or gangs** that include multiple alts.  
+If it feels questionable — ask first.
+
+---
+
+### 🚫 Forbidden Character Types & Themes
+
+The following are not allowed:
+
+- Child or teen characters (including overly childish behavior)
+- Pregnancy RP or active pregnancies
+- Abuse or trauma centered on children or sexual violence
+- Recreated characters that continue old feuds
+- Supernatural powers or entities
+
+---
+
+Characters are the foundation of BandidosRP.  
+Build someone who could thrive (or struggle) in the harsh world of Horizen — and let the story unfold naturally.
