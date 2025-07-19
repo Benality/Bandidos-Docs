@@ -26,3 +26,4 @@
 - [Timeline](timeline.md)
 - [Bans & Disciplinary Process](bans.md)
 - [Stash Policy](stashes.md)
+- [Deletion Policy](characterdeletion.md)
