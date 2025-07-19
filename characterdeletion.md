@@ -1,4 +1,4 @@
-## 🗑️ Character Deletion Policy
+## Character Deletion Policy
 
 To maintain server performance and support a dynamic world, **BandidosRP automatically deletes inactive characters** after a certain period.
 
@@ -9,6 +9,18 @@ To maintain server performance and support a dynamic world, **BandidosRP automat
 - **Any character that has not logged in for 60 days will be automatically deleted.**
 - This applies to all characters, regardless of status or progression.
 - There are no exceptions unless explicitly granted by staff ahead of time.
+
+---
+
+### 💤 Inactive Status (Extended Timeout)
+
+If you know you'll be away for an extended period (travel, real life, etc.), you may request to have your character marked as **Inactive**:
+
+- This extends the deletion window to **120 days**.
+- After 120 days, your character **will still be deleted** per policy.
+- Contact support via a **Discord ticket** to request inactive status before reaching the 60-day mark.
+
+> Inactive status gives you extra time — but it's not permanent.
 
 ---
 
@@ -48,11 +60,11 @@ Due to the complexity of properly removing all associated character data,
 
 - Our automated system ensures all related data is fully and cleanly removed.
 - If you wish to delete your character, simply stop logging into them.
-- After 60 days of inactivity, the system will handle deletion automatically.
+- After 60 days of inactivity (or 120 with inactive status), the system will handle deletion automatically.
 
 ---
 
 ### 🧭 Final Note
 
 Our world is built on **active characters and meaningful stories**.  
-If you want to preserve your legacy — log in, stay active, and keep writing your tale.
+If you want to preserve your legacy — log in, stay active, or let us know when you need a break.
