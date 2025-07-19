@@ -25,3 +25,4 @@
 - [Operating a Business](businessownership.md)
 - [Timeline](timeline.md)
 - [Bans & Disciplinary Process](bans.md)
+- [Stash Policy](stashes.md)
