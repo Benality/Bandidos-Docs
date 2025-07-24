@@ -10,6 +10,7 @@
 - [NVL - Value of Life](nvl.md)
 - [Restraints, Cuffs & Escape](restraints.md)
 - [Incapacitation, Unconsciousness, & PermaDeath](incapacitation.md)
+- [Permadeath Command Usage](permadeath.md)
 - [Torture](torture.md)
 - [Dueling Policy](dueling.md)
 - [Hostage Rules](hostages.md)

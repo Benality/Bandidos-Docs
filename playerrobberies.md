@@ -21,6 +21,27 @@ Robberies in BandidosRP are meant to create tension, drama, and long-term storie
 
 ---
 
+### 🎒 Backpack Rules
+
+Backpacks offer utility and immersion, but come with responsibility. Misusing them in robberies or PvP scenes may result in administrative action.
+
+- **Wearing a backpack** gives you extra storage that can be accessed at any time.
+- **Placing it on the ground** allows others to **pick it up or search it**.
+- You **cannot store the backpack** if it contains items — it must be empty first.
+
+#### 🚨 During Robberies:
+
+- **Do not move items** to/from your backpack _while being actively robbed_ in order to avoid losing valuables.
+  - You **may** move items if you **escape or evade** and have time to do so.
+  - This should be done to **support roleplay**, not to "win" the situation.
+- Backpacks are **automatically dropped when a player dies**.
+  - Killing a player **just to loot the backpack** is not allowed.
+- Robbers may **order a victim to drop their backpack**.
+  - This **does not violate** the “one source” robbery rule — backpacks are considered an **extension of the person**.
+  - Victims must **comply and roleplay the situation appropriately**, per NVL and story-first expectations.
+
+---
+
 ### 🔫 Weapon Theft Rules
 
 You may only steal a weapon if:
@@ -29,6 +50,38 @@ You may only steal a weapon if:
 - It was **used recently** in the current or connected scene
 
 > You **cannot** steal a weapon just because you know the player has one or saw it OOC days ago.
+
+---
+
+When searching a player, take care to take only the weapon(s) that you visibly see or know the character has from a connected scene.
+
+#### 🎯 What is a “Connected Scene”?
+
+A **connected scene** means there is a clear, recent roleplay link between your character and the weapon in question.
+
+**✅ Example of a connected scene:**
+
+> You spoke with someone earlier in town. They mentioned heading out to hunt with their Rolling Block.  
+> Later, you find them in the wilderness. That is a valid IC connection — you **know** they have the Rolling Block.
+
+**❌ Example of a non-connected scene:**
+
+> You saw the same person with a Rolling Block the day before, but there’s been no interaction or continuity.  
+> You cannot assume they still have the same weapon unless you build fresh RP around it.
+
+Use conversation to build this connection. Example:
+
+> _“Hey, how’s that Rolling Block treating you? Bag anything good the other day?”_  
+> — This gives the other player an opportunity to confirm, deny, or redirect based on their RP.
+
+---
+
+If you **do search** and find additional weapons, and wish to **disarm the player**, that is allowed. However:
+
+- Any extra weapons **should be returned** to the player **after the scene**, unless they are eligible to be stolen (per the above rules).
+- You may also use:  
+  `/me disarms all weapons` — This is an RP indicator that your character is **taking all weapons for the duration of the scene**.
+  - The victim **must respect this RP indicator**.
 
 #### ⚠️ One Weapon Per Player
 
@@ -48,12 +101,6 @@ When robbing a player, your group may:
 But:  
 You may **only steal from one of those**.  
 If you take from their person, you cannot also loot their horse or wagon.
-
-#### Example:
-
-> Two travelers — one on horseback, one driving a wagon — are stopped by six outlaws.  
-> Each traveler may be robbed, but only once.  
-> The group may search both the horse and wagon, but may only **take from one source per player**.
 
 > ✅ This rule applies **per victim**, not per robber.
 
@@ -97,6 +144,6 @@ Ask yourself:
 
 ### 🔁 Final Rule of Thumb
 
-**Each victim = one robbery.**  
-**Each robbery = one source.**  
-If your robbery leaves no story behind, then it shouldn’t have happened in the first place.
+**Each victim = one robbery**  
+**Each robbery = one source**  
+**Each robbery = a story, not a shortcut**

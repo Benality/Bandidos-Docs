@@ -19,6 +19,7 @@ Death and injury are natural outcomes in a world as dangerous as BandidosRP. How
 - You are never required to permanently kill your character—but if you choose to, it must be **final**.
 - Use `/me is dead` or another clear emote if you are declaring your character’s death. Once this is done, there is **no coming back**.
 - If you’re unsure, consider placing your character in a **coma** or critical state, and make the final call later.
+- See the [Permadeath Command Usage](permadeath.md)
 
 ### 🔪 Executions & Forced Death
 
