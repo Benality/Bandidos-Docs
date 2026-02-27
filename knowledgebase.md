@@ -6,9 +6,13 @@ Combined rulesets generated on 2026-02-27.
 
 ## allowlist
 
-## Allowlist & Transient Player Policy
+## Allowlist Policy
 
 Iron Range has a very simple way of handling allowlists. We use an AI based risk assessment of connected accounts to determine access to our server. We have a manual review of any accounts that are missing information. Although we do not provide specific details as to what our checks entail; we provide a simple way to access the server and get started right away.
+
+- My application says manual review: This means that we were unable to fully collect all your information from either Discord or Steam. Please ensure that your steam profile is public (including friendslist, games) - if you are not comfortable with this you may do a screenshare with a member of staff and they can validate your steam profile. 
+
+- My application was denied: Application denial is uncommon and we know that it's difficult. We are unable to provide exact reasons for your denial. If the system auto denied you, a staff member can review to ensure that it's accurate. If they determine it is accurate however, the ruling on the field stands. You will be able to re-apply again in 30 days. 
 
 
 ### 🌟 Becoming Allowlisted
@@ -16,7 +20,13 @@ Iron Range has a very simple way of handling allowlists. We use an AI based risk
 To unlock full access to the server and become a **Citizen of Iron Range**, you must complete the allowlist process:
 
 You will use our website at https://ironrangerp.com/whitelist to start your allowlist process
+
+We are set to open our doors in April 2026. This of course could change based on development requirements
 ---
+
+## restricted
+
+I am being shown as restricted: We use a thrid party bot called VVarden to validate users. This service checks all known discords as it pertains to cheating, leaking, hacking etc with either FiveM or RedM. If you are a member of any of these discord servers, you will be restricted. This means you cannot request an allowlist until you get that restriction removed from VVarden. To do so, visit the vvarden discord https://discord.gg/warden-860760302227161118  if the link expires a member of support can supply a new one
 
 
 ## bans
